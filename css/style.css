@@ -41,3 +41,13 @@ h2 {
 ul {
     padding: 16px;
 }
+
+/* tabella */
+thead {
+    background-color: rgb(32,169,229);
+    color: white; 
+}
+
+.row {
+    background-color: rgb(177,229,242);
+}
