@@ -30,3 +30,14 @@ h2 {
     font-size: 18px;
     color: rgb(128, 128, 128);
 }
+
+/* testo */
+.paragrafo {
+    font-size: 12px;
+    margin: 0;
+}
+
+/* lista */
+ul {
+    padding: 16px;
+}
