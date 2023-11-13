@@ -51,3 +51,27 @@ thead {
 .row {
     background-color: rgb(177,229,242);
 }
+
+/* footer */
+h4 {
+    font-size: 20px;
+    color: rgb(128, 128, 128);
+}
+
+.lorem-monitor {
+    background-image: url('../img/monitor.jpg');
+    width: 300px;
+    height: 190px;
+}
+
+.lorem-graph {
+    background-image: url('../img/graph.jpg');
+    width: 300px;
+    height: 190px; 
+}
+
+h5 {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
